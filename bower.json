@@ -1,6 +1,7 @@
 {
   "name": "elliptical-transitions",
   "description": "View Transitions",
+  "version":"1.0.1",
   "main": "dist/elliptical.transitions.js",
   "authors": [
     "S. Francis"

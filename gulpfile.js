@@ -10,7 +10,7 @@ var gulp=require('gulp'),
 
 
 gulp.task('default',function(){
-    console.log(REPO_NAME + ' ..."tasks: gulp build|minify"');
+    console.log(REPO_NAME + ' ..."tasks: gulp build|minify"');//
 });
 
 gulp.task('build',function(){

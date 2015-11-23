@@ -1,0 +1,23 @@
+{
+  "name": "elliptical-transitions",
+  "description": "View Transitions",
+  "version": "1.0.0",
+  "author": "S. Francis",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tachyon1337/elliptical-transitions.git"
+  },
+  "dependencies": {
+    "jquery-extensions": "git+https://github.com/tachyon1337/jquery-extensions.git",
+    "velocity-animate":"git+https://github.com/julianshapiro/velocity.git"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-util": "^2.2.14",
+    "gulp-concat": "^2.2.0",
+    "gulp-tap": "^0.1.1",
+    "fs-extra": "^0.8.1",
+    "gulp-uglify": "^0.2.1"
+  }
+}

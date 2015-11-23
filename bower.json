@@ -1,0 +1,25 @@
+{
+  "name": "elliptical-transitions",
+  "description": "View Transitions",
+  "main": "dist/elliptical.transitions.js",
+  "authors": [
+    "S. Francis"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "view",
+    "transitions"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "velocity": "~1.2.3"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "name": "elliptical-transitions",
   "description": "View Transitions",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "S. Francis",
   "license": "MIT",
   "repository": {
@@ -9,7 +9,7 @@
     "url": "https://github.com/ellipticaljs/elliptical-transitions.git"
   },
   "dependencies": {
-    "jquery-extensions": "git+https://github.com/tachyon1337/jquery-extensions.git",
+    "jquery-extensions": "git+https://github.com/ellipticaljs/jquery-extensions.git",
     "velocity-animate":"git+https://github.com/julianshapiro/velocity.git"
   },
   "devDependencies": {

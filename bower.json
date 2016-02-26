@@ -1,7 +1,7 @@
 {
   "name": "elliptical-transitions",
   "description": "View Transitions",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "dist/elliptical.transitions.js",
   "authors": [
     "S. Francis"
@@ -42,6 +42,6 @@
   ],
   "dependencies": {
     "velocity": "~1.2.3",
-    "elliptical-jquery": "~3.0.6"
+    "jquery-extensions": "~1.0.7"
   }
 }
